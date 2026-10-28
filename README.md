@@ -54,7 +54,7 @@ Result: `score = sum of weights of passed checks`, shown as percent.
 
 ## Data
 
-[`data/geo-audit-2026-10.csv`](data/geo-audit-2026-10.csv) — one row per site:
+[`geo-audit-2026-10.csv`](geo-audit-2026-10.csv) — one row per site:
 
 ```
 domain,group,score_percent,points,failed_checks
